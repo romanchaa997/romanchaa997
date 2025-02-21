@@ -13,4 +13,4 @@
 ## Установка
 1. Клонируйте репозиторий:
    ```sh
-   git clone https://github.com/yourusername/blockchain-testing-portfolio.git
+   git clone https://github.com/romanchaa997/blockchain-testing-portfolio.git
