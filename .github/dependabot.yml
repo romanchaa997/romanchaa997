@@ -1,0 +1,56 @@
+version: 2
+updates:
+  # Enable version updates for npm packages
+  - package-ecosystem: "npm"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "03:00"
+    open-pull-requests-limit: 10
+    reviewers:
+      - romanchaa997
+    assignees:
+      - romanchaa997
+    labels:
+      - "dependencies"
+      - "javascript"
+    commit-message:
+      prefix: "chore: "
+      prefix-development: "chore: "
+      include: "scope"
+
+  # Enable version updates for Python packages
+  - package-ecosystem: "pip"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "03:00"
+    open-pull-requests-limit: 10
+    reviewers:
+      - romanchaa997
+    assignees:
+      - romanchaa997
+    labels:
+      - "dependencies"
+      - "python"
+    commit-message:
+      prefix: "chore: "
+      prefix-development: "chore: "
+      include: "scope"
+
+  # Enable security updates for GitHub Actions
+  - package-ecosystem: "github-actions"
+    directory: "/"
+    schedule:
+      interval: "weekly"
+      day: "monday"
+      time: "03:00"
+    reviewers:
+      - romanchaa997
+    labels:
+      - "dependencies"
+      - "github-actions"
+    commit-message:
+      prefix: "ci: "
