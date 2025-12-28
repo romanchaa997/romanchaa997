@@ -1,0 +1,22 @@
+# CODEOWNERS for romanchaa997 ecosystem
+# This file defines automatic reviewer assignments for code changes
+# See: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# Global owners - required for all changes
+* @romanchaa997
+
+# Security policy - must have security review
+SECURITY.md @romanchaa997
+.github/workflows/security*.yml @romanchaa997
+
+# Contributing guidelines
+CONTRIBUTING.md @romanchaa997
+
+# GitHub configuration files
+.github/CODEOWNERS @romanchaa997
+.github/dependabot.yml @romanchaa997
+.github/pull_request_template.md @romanchaa997
+
+# Documentation
+README.md @romanchaa997
+ECOSYSTEM_SETUP.md @romanchaa997
