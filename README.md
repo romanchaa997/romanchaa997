@@ -1,58 +1,55 @@
-# Igor - AI/ML Engineer & Web3 Developer 🚀
+# Igor — AI/ML Engineer & Web3 Developer 🚀  
 
-**Based in Ukraine | Open to Remote & International Opportunities**
-
----
-
-## 🇺🇦 Українською
-
-Інженер-програміст з фокусом на **AI/ML, DevOps та хмарні сервіси**.  
-Будую production-grade платформи та інструменти для безпеки, прозорості й автоматизації цифрових систем (Web3, SaaS, державні сервіси).
-
-### Що роблю зараз
-
-- 🛡️ **Audityzer** — платформа Web3 security / смарт-контракт аудиту та моніторингу.
-- 📊 **Heatmap SaaS API** — сервіс аналітики та heatmap-API для продуктів та інфраструктури.
-- 🧩 **Structurizer** — інструмент для генерації структури та архітектури проєктів (AI-aware boilerplates).
-- 🏛️ **Civic / GovTools** — аналітика й прототипи сервісів для цифрового врядування.
-
-### Технології
-
-- **Мови**: Python, Node.js / TypeScript
-- **Інфраструктура**: Cloudflare, Docker, CI/CD, observability, security
-- **AI/ML**: LLM інтеграції, automation, аналітика
+**AI/ML & DevOps engineer building production‑grade security and analytics platforms for Web3, SaaS and digital government. Open to remote full‑time, contract and technical advisory roles.**
 
 ---
 
-## Investor-focused profile
+🇺🇦 Українською
+----------------
 
-Software engineer focused on **AI/ML, DevOps and cloud platforms**, building production-grade B2B tools for security, observability and automation across Web3, SaaS and e‑government. Current work spans a coherent product ecosystem rather than isolated side projects.
+Інженер‑програміст з фокусом на **AI/ML, DevOps та хмарні сервіси**.  
+Будую production‑grade платформи та інструменти для безпеки, прозорості й автоматизації цифрових систем (Web3, SaaS, державні сервіси).
 
-### Product ecosystem
-
-- 🛡️ **Audityzer** – Full‑stack Web3 security platform with monorepo architecture (backend, web, mobile, CI/CD plugins, k8s, monitoring, infra) and AI‑assisted smart contract analysis designed for real bug bounty and enterprise workflows.
-- 📊 **Heatmap SaaS API** – Production‑ready analytics and heatmap API with orchestrator pattern, FastAPI gateway, Redis/Postgres, rate limiting, and Stripe/Fondy payments, including onboarding flows, launch checklists and monetisation playbooks.
-- 🧩 **Structurizer** – AI‑aware project structure and architecture generator built with modern TypeScript tooling, focused on clean boilerplates and developer experience for greenfield products.
-- 🏛️ **Civic / GovTools** – Prototypes and analytics for digital governance, applying the same SaaS and security patterns to public-sector use cases.
-
-### Tech stack & practices
-
-- **Languages**: Python, Node.js / TypeScript for backends, CLIs and integrations.
-- **Infrastructure**: Cloudflare, Docker, k8s manifests, GitHub/GitLab CI/CD pipelines, monitoring and infra-as-code folders across the main repos.
-- **AI/ML**: LLM integrations for batch analytics and security reasoning, embedded directly into orchestrated pipelines rather than standalone scripts.
-
-### Why this ecosystem is investable
-
-- **Platform‑level architecture**: Audityzer's structure (core, platform, UI, CI/CD plugins, extensions, k8s, monitoring) shows the ability to design and operate full platforms, not one-off tools.
-- **End‑to‑end SaaS readiness**: Heatmap SaaS API already includes API gateway, background workers, caching, rate limiting, pricing tiers, payment integrations and onboarding docs, covering the full SaaS lifecycle.
-- **Security and compliance mindset**: Security policies, privacy/ToS docs, payment tests and bug‑bounty positioning signal alignment with enterprise and Web3 security buyers.
-- **AI‑native differentiation**: LLMs are wired into concrete workflows (smart contract audits, analytics pipelines), aligning the ecosystem with current AI infra and security theses.
-- **Clear path to revenue**: Productisation roadmaps, launch checklists and monetisation strategies across the repos reduce go‑to‑market risk from an investor perspective.
+Детальніше про стратегію та наступні кроки: [NEXT_STEPS.ua.md](./NEXT_STEPS.ua.md)
 
 ---
 
-### Contact
+## What I bring to teams (Hiring)
 
-💬 **Available for**: Remote & international opportunities, advisory roles, technical partnerships
+- **AI/ML in production**: LLM‑based analytics and security reasoning wired into real pipelines, not one‑off scripts.  
+- **Infra & DevOps**: Cloudflare‑centric infra, Docker, k8s manifests, GitHub/GitLab CI/CD, observability and security by default.  
+- **Product mindset**: From prototype to SaaS‑ready platform (onboarding, pricing, payments, docs).
 
-📌 **Featured projects**: See ecosystem repos linked above
+---
+
+## Product ecosystem (core projects)
+
+- 🛡️ **Audityzer** – For Web3 teams and security researchers; reduces time from contract deployment to actionable risk overview by automating smart‑contract analysis, monitoring and reporting.  
+- 📊 **Heatmap SaaS API** – For product and infra teams; turns raw events into actionable heatmaps and analytics with a ready SaaS layer (gateway, workers, rate limiting, billing).  
+- 🧩 **Structurizer** – For engineers starting new products; generates clean, AI‑aware TypeScript project structure and architecture so teams can ship faster with consistent patterns.  
+- 🏛️ **Civic / GovTools** – For digital government and civic tech; applies the same security and SaaS patterns to public‑sector analytics and services.
+
+See repositories for architecture details, tech stack and roadmaps.
+
+---
+
+## Tech stack & practices
+
+- **Languages**: Python, Node.js / TypeScript (backends, CLIs, integrations).  
+- **Infrastructure**: Cloudflare Workers/Pages, Docker, k8s manifests, GitHub/GitLab CI/CD, monitoring and IaC across main repos.  
+- **AI/ML**: LLM‑based contract analysis, batch analytics pipelines, AI‑assisted boilerplate and architecture generation.
+
+---
+
+## Investors & partners
+
+Looking for partners who share theses around security, AI‑native tooling and digital governance.
+
+➡️ Investor / Partner overview: [INVESTOR.md](./INVESTOR.md)
+
+---
+
+## Contact
+
+💬 Available for: Remote & international roles, advisory, technical partnerships  
+📌 Featured projects: see pinned repositories (Audityzer, Heatmap SaaS API, Structurizer, Civic/GovTools)
