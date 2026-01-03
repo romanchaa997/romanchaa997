@@ -1,0 +1,13 @@
+Repository,Language,Current_Python_Version,Current_FastAPI_Version,Has_Tests,Test_Coverage,Has_CI_CD,Dependencies_Pinned,Pre_Commit_Hooks,Docker_Support,Priority,Status,Notes
+Bakhmach-Business-Hub,Python/TypeScript,3.9,0.103,Yes,45%,GitHub_Actions,Partial,No,Yes,P1,In_Progress,Core project - upgrade Python to 3.11
+smart-bakhmach-iot-infrastructure,Python,3.10,0.108,Yes,38%,GitHub_Actions,Partial,No,Yes,P1,Queued,Async infrastructure platform
+Audityzer,JavaScript,N/A,N/A,Yes,52%,GitHub_Actions,Yes,No,Yes,P2,Queued,Web3 security platform
+clientsphere,TypeScript,N/A,N/A,Yes,48%,GitHub_Actions,Yes,No,Yes,P1,Queued,CRM suite of microservices
+monobank-api-sdk,TypeScript,N/A,0.5.2,Yes,65%,GitHub_Actions,Yes,Yes,No,P2,Queued,SDK for Monobank API
+hyperarch-visualizer-pro,TypeScript,N/A,N/A,Yes,42%,GitHub_Actions,Yes,No,Yes,P2,Queued,Architecture visualization with FastAPI
+structurizer-ai,TypeScript,N/A,N/A,Yes,35%,GitHub_Actions,Yes,No,No,P3,Backlog,Text structuring with Gemini API
+enviro-governance-platform,Python,3.10,0.107,Yes,40%,GitHub_Actions,Partial,No,Yes,P2,Queued,Environmental governance with ML
+predictive-propositions-service,Python,3.9,0.103,Yes,38%,GitHub_Actions,Partial,No,Yes,P2,Queued,ML ranking service
+heatmap-saas-api,Python,3.10,0.108,Yes,52%,GitHub_Actions,Partial,No,Yes,P2,Queued,SaaS location intelligence API
+integration-platform-microservices,Python,3.10,0.107,Yes,45%,GitHub_Actions,Partial,No,Yes,P2,Queued,Parallel microservices platform
+unified-projects-monorepo,Mixed,3.10,N/A,Yes,40%,GitHub_Actions,Partial,No,Yes,P1,Queued,Monorepo consolidation project
